@@ -1,0 +1,27 @@
+{
+  "name": "the-social-network-desktop",
+  "version": "1.0.0",
+  "description": "A desktop version of The Social Network",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luljn/The-Social-Network-Desktop.git"
+  },
+  "keywords": [
+    "social-network",
+    "desktop",
+    "app"
+  ],
+  "author": "Luljn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luljn/The-Social-Network-Desktop/issues"
+  },
+  "homepage": "https://github.com/luljn/The-Social-Network-Desktop#readme",
+  "dependencies": {
+    "the-social-network-desktop": "file:"
+  }
+}
