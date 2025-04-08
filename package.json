@@ -23,5 +23,8 @@
   "homepage": "https://github.com/luljn/The-Social-Network-Desktop#readme",
   "dependencies": {
     "the-social-network-desktop": "file:"
+  },
+  "devDependencies": {
+    "electron": "^35.1.4"
   }
 }
