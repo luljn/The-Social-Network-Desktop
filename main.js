@@ -13,7 +13,7 @@ const createWindow = () => {
             contextIsolation: false,
         }
     })
-    win.loadFile('src/sign-in.html')
+    win.loadFile('src/home.html')
 }
 
 app.whenReady().then(() => {
