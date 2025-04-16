@@ -13,7 +13,7 @@ const createWindow = () => {
             contextIsolation: false,
         }
     })
-    win.loadFile('src/error404.html')
+    win.loadFile('src/mypage.html')
 }
 
 app.whenReady().then(() => {
