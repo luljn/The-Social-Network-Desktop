@@ -13,7 +13,7 @@ const createWindow = () => {
             contextIsolation: false,
         }
     })
-    win.loadFile('src/mypage.html')
+    win.loadFile('src/myprofile.html')
 }
 
 app.whenReady().then(() => {
