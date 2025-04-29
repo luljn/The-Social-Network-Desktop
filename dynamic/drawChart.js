@@ -24,10 +24,10 @@ var chart = new Chart(ctx, {
         },
         scales: {
             yAxes: [{
-            display: true,
-            ticks: {
-                beginAtZero: true
-            }
+                display: true,
+                ticks: {
+                    beginAtZero: true
+                }
             }]
         }
     }
